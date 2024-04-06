@@ -80917,7 +80917,7 @@ A.BQ.prototype={
 Be(){var s=0,r=A.R(t.H),q
 var $async$Be=A.S(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:q=document.createElement("a")
-q.href="assets/Bhargav_CV.pdf"
+q.href="assets/assets/Bhargav_CV.pdf"
 q.download="Bhargav_CV"
 q.click()
 return A.P(null,r)}})
